@@ -1,6 +1,6 @@
 {
     "client": "true",
-    "clientRoot": "/",
+    "clientRoot": "/client",
     "clientEntry": "index.html",
     "clientBuild": "true",
     "clientBuildEntry": "/build",
