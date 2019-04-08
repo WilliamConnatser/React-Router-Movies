@@ -3,7 +3,7 @@
     "clientRoot": "/client",
     "clientEntry": "index.html",
     "clientBuild": "true",
-    "clientBuildEntry": "/build",
+    "clientBuildRoot": "/build",
     "server": "true",
     "serverRoot": "/",
     "serverEntry": "server.js",
