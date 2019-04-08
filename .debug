@@ -4,7 +4,7 @@
     "clientEntry": "index.html",
     "clientBuild": "true",
     "clientBuildEntry": "/build",
-    "server": "false",
+    "server": "true",
     "serverRoot": "/",
     "serverEntry": "index.js",
     "serverPort": "5000"
