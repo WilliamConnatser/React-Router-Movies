@@ -6,6 +6,6 @@
     "clientBuildEntry": "/build",
     "server": "true",
     "serverRoot": "/",
-    "serverEntry": "index.js",
+    "serverEntry": "server.js",
     "serverPort": "5000"
 }
